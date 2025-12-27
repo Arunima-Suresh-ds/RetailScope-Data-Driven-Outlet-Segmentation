@@ -70,6 +70,44 @@ Before modeling, the dataset is explored and prepared using **Exploratory Data A
    - Mapped clusters to actionable retail strategies  
 
 ---
+##  Clustering Approach
+
+Unsupervised learning was applied to segment outlets into **4 distinct clusters**, each representing a unique business profile.
+
+###  Identified Clusters
+
+####  Cluster 0 — Underperforming New Stores
+- Low sales  
+- Low customer ratings  
+- Relatively new outlets  
+   **Action:** Improve onboarding, local marketing, and staff training
+
+---
+
+####  Cluster 1 — Old, Stable High Performers
+- High sales  
+- High ratings  
+- Mature outlets  
+   **Action:** Maintain service quality and use as benchmark stores
+
+---
+
+####  Cluster 2 — Fast-Growing Modern Outlets
+- High sales  
+- High ratings  
+- Newer outlets  
+   **Action:** Scale operations and replicate success model
+
+---
+
+####  Cluster 3 — Mass-Market Average Performers
+- Moderate sales and ratings  
+- Largest group  
+   **Action:** Optimize pricing, promotions, and assortment
+
+---
+
+
 
 ##  Key Insights
 
@@ -96,5 +134,4 @@ This project enables retailers to:
 -  **Support Strategic Decision-Making**  
   Shift from intuition-based planning to data-driven strategies  
 
----
 
