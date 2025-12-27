@@ -1,6 +1,9 @@
 #  RetailScope: Data-Driven Outlet Segmentation
 
-<img width="1536" height="1024" alt="ChatGPT Image Dec 27, 2025, 04_51_51 PM" src="https://github.com/user-attachments/assets/ca4e5fc3-8cf7-4b88-b788-6fd55e5eb0a3" />
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-orange)
+![Clustering](https://img.shields.io/badge/Algorithm-K--Means-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 
 > Segmenting retail outlets using unsupervised machine learning to enable data-driven business decisions.
@@ -94,9 +97,4 @@ This project enables retailers to:
   Shift from intuition-based planning to data-driven strategies  
 
 ---
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Unsupervised-orange)
-![Clustering](https://img.shields.io/badge/Algorithm-K--Means-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 
