@@ -1,4 +1,4 @@
-# 🏬 RetailScope: Data-Driven Outlet Segmentation
+#  RetailScope: Data-Driven Outlet Segmentation
 
 
 > Segmenting retail outlets using unsupervised machine learning to enable data-driven business decisions.
