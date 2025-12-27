@@ -1,9 +1,10 @@
 #  RetailScope: Data-Driven Outlet Segmentation
 
+---![Uploading ChatGPT Image Dec 27, 2025, 04_51_51 PM.png…]()
 
 > Segmenting retail outlets using unsupervised machine learning to enable data-driven business decisions.
 
----
+
 
 ##  Problem Statement
 
